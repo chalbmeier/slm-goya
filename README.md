@@ -1,5 +1,4 @@
-# Small Language Models for Describing Artwork
-Small language models (SLM) for producing descriptions of artwork.
+# Small Language Models for Producing Descriptions of Artwork
 
 ## Description
 
