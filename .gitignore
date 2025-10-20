@@ -1,0 +1,6 @@
+*
+!.gitignore
+!README.md
+!requirements.txt
+!*.py
+!image_captioning_goya_smolvlm.ipynb
